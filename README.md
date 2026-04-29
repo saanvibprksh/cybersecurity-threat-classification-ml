@@ -99,6 +99,6 @@ This project demonstrates how machine learning can strengthen cybersecurity anal
 
 cybersecurity-threat-classification-ml/
 │
-├── ml_cyber_project.ipynb          # Full end-to-end ML workflow
-├── best_cybersecurity_model.pkl    # Deployment-ready trained model
-└── README.md                       # Project documentation
+├── ml_cyber_project.ipynb          
+├── best_cybersecurity_model.pkl    
+└── README.md                       
