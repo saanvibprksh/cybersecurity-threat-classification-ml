@@ -56,3 +56,9 @@ The optimized Logistic Regression model demonstrated the strongest balance betwe
 ---
 
 ## Repository Structure
+cybersecurity-threat-classification-ml/
+│
+├── ml_cyber_project.ipynb          # Main Jupyter Notebook containing the full ML workflow
+├── best_cybersecurity_model.pkl    # Saved trained model for deployment/use
+├── README.md                       # Project documentation and overview
+└── requirements.txt                # Dependencies required to run the project (optional)
